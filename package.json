@@ -1,0 +1,17 @@
+{
+  "name": "rebuild-look",
+  "version": "1.0.0",
+  "description": "try to rebuild look be",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrkou47",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa-router": "^7.2.0",
+    "koa-swig": "^2.2.1",
+    "nodemon": "^1.11.0"
+  }
+}
